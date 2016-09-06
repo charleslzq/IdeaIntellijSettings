@@ -2,4 +2,7 @@
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="Git.Revert">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
 </keymap>
