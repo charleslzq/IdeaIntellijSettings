@@ -122,6 +122,10 @@
           <option name="url" value="https://github.com/spring-guides/gs-integration.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://liuzhengqi@h.quyiyuan.com/scm/plat/qy-log.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Administrator\IdeaProjects" />
